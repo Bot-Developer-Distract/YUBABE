@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yukiizeng0001/yubabe.git"
+    "url": "git+ssh://git@github.com/MoonVN571/yubabe.git"
   },
   "keywords": [
     "YwY",
@@ -18,9 +18,9 @@
   "author": "YwY Team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yukiizeng0001/yubabe/issues"
+    "url": "https://github.com/MoonVN571/YUBABE/issues"
   },
-  "homepage": "https://github.com/yukiizeng0001/yubabe#readme",
+  "homepage": "https://github.com/MoonVN571/YUBABE#readme",
   "dependencies": {
     "@canvas-fonts/arial-bold": "^1.0.4",
     "@discordjs/builders": "^1.0.0",
