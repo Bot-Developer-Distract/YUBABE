@@ -38,7 +38,7 @@
     "local-storage": "^2.0.0",
     "mongoose": "^6.3.6",
     "pretty-ms": "^8.0.0",
-    "quick.db": "^9.0.5",
+    "quick.db": "^9.0.6",
     "random-number-csprng": "^1.0.2",
     "simple-json-db": "^2.0.0",
     "topgg-autoposter": "^2.0.1"
