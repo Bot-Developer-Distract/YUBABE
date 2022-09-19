@@ -1,5 +1,6 @@
 const colors = require('colors')
 const mongoose = require('mongoose')
+require('dotenv').config();
 module.exports  = {
 	name: 'ready',
 	once: true,

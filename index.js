@@ -1,5 +1,6 @@
 const { Client, Intents, Collection, Options, MessageEmbed, Partials } = require('discord.js');
 require('colors')
+require('dotenv').config();
 const token = process.env.token
 let client = new Client({
   partials: ["CHANNEL"],
